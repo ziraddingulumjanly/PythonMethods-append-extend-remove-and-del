@@ -27,4 +27,6 @@ The script also demonstrates how to handle common errors that occur when perform
 - **`IndexError`**:
   - Triggered when `del` is used with an out-of-range index.
   - Example: `del my_list[10]` when the list has fewer than 10 items will raise an `IndexError`.
+
+
 ##ZIRADDINGULUMJANLI2024
